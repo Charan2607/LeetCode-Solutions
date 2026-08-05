@@ -6,14 +6,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [3731-find-missing-elements](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
