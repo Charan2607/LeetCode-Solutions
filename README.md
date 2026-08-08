@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
