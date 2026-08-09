@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
