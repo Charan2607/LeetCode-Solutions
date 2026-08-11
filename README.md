@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -58,5 +59,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
