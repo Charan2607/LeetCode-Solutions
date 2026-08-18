@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0908-smallest-range-i](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0908-smallest-range-i](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Charan2607/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
