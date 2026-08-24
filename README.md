@@ -67,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Charan2607/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
